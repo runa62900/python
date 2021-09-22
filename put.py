@@ -1,0 +1,2 @@
+import hensu
+print(a)
